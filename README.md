@@ -1,5 +1,5 @@
 # Financial Data Analysis Project
-project link 
+project link : https://github.com/Deepakdevpk/powerBi_proj
 This repository contains a Power BI report that analyzes financial data to provide insights into sales trends, profit margins, cost management, and product performance. The report leverages various visualizations to highlight key performance indicators (KPIs) and actionable insights for improving business operations.
 
 ## Overview
